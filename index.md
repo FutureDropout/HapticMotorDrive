@@ -11,4 +11,4 @@ September 11, 2018 -
 <a href="https://github.com/JordanPulido/HapticMotorDrive/blob/master/documentation/JordanProposal.pdf"> Proposal </a> created
 
 September 4, 2018 - 
-<a href="https://github.com/JordanPulido/HapticMotorDrive"> Repository </a> created!
+<a href="https://github.com/JordanPulido/HapticMotorDrive.git"> Repository </a> created!
