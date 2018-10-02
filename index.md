@@ -1,4 +1,4 @@
-October 2 2018, - Budget Proof created
+October 2 2018, - Proof of Purchase created
 
 September 25, 2018 - Budget Plan created
 
