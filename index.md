@@ -1,5 +1,5 @@
 October 23, 2018 -
-<a href="https://github.com/JordanPulido/HapticMotorDrive/blob/master/documentation/Fritzing.pdf"> Fritzing Diagram </a> created
+<a href="https://github.com/JordanPulido/HapticMotorDrive/blob/master/documentation/Fritzing.pdf"> Fritzing Diagram </a> created. Finished soldering Haptic Motor Drive. Completed a fritzing diagram. Connected and detected the i2 chip on the raspberry pi with the declared address. Enabled VNC view on school computers from raspberry pi.
 
 October 2, 2018 -
 <a href="https://github.com/JordanPulido/HapticMotorDrive/blob/master/documentation/JordanBudgetProof.pdf"> Proof of Purchase </a> created
