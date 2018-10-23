@@ -1,5 +1,5 @@
 October 23, 2018 -
-<ahref="github.com/JordanPulido/HapticMotorDrive/blob/master/documentation/Fritzing.pdf"> Fritzing Diagram </a> created
+<a href="github.com/JordanPulido/HapticMotorDrive/blob/master/documentation/Fritzing.pdf"> Fritzing Diagram </a> created
 
 October 2, 2018 -
 <a href="https://github.com/JordanPulido/HapticMotorDrive/blob/master/documentation/JordanBudgetProof.pdf"> Proof of Purchase </a> created
