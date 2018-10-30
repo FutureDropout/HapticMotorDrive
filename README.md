@@ -1,6 +1,9 @@
 # HapticMotorDrive
 DRV2605 Haptic Motor Driver (0x5A)
 
+October 30, 2018 -
+<a href="https://github.com/JordanPulido/HapticMotorDrive/blob/master/documentation/HapticMotorDriver_pcb.png"> PCB designed Milestone </a> created. <br> After completing the fritzing diagram for the sensor, I made the pcb layout for the diagram.
+
 October 23, 2018 -
 <a href="https://github.com/JordanPulido/HapticMotorDrive/blob/master/documentation/Fritzing.pdf"> Fritzing Diagram </a> created. <br><br>Finished soldering the pins onto the Haptic Motor Drive, and connected it to a breadboard. Completed a fritzing diagram. Connected and detected the i2 chip on the raspberry pi with the declared address. Enabled VNC view on school computers from raspberry pi.
 
