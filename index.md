@@ -1,3 +1,5 @@
+November 6, 2018 - Today's task is the PCB soldering milestone. The gerber files I sent to the prototype lab did not receive the email, I had to send another email to the lab. I confirmed that they received the email now I am waiting to wait for the lab to make my PCB. I got the pin sockets for my raspberry pi and motor today. I pulled out some pins from the socket as the pins won't be used for my circuit. Throughout half the class, the PCB has been made. I soldered the pins sockets onto the PCB breadboard. I still have the vias to work on which will be done outside of class.
+
 October 30, 2018 -
 <a href="https://github.com/JordanPulido/HapticMotorDrive/blob/master/documentation/HapticMotorDriver_pcb.png"> PCB designed Milestone </a> created. <br> <br> After completing the fritzing diagram for the sensor, I made the pcb layout for the diagram.
 
