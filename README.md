@@ -1,6 +1,10 @@
 # HapticMotorDrive
 DRV2605 Haptic Motor Driver (0x5A)
 
+November 13, 2018 - The goal for today was to show the professor our hardware demonstration. There was a problem I encountered where the raspberry pi won't turn on. I tried using the VGA to HDMI adapter method to see if it worked. The solution was to take out the PCB and then turn on the pi, then put the PCB on afterwards. Throughout the class, I've been trying to setup python and circuit python to control my i2c on the board. The process took longer than expected and wasn't completed towards the end of the class. Outside work needs to be done to completely demonstrate the hardware. <a href ="https://learn.adafruit.com/adafruit-drv2605-haptic-controller-breakout/python-circuitpython"> Adafruit's tutorial </a> has been used for reference regarding the installation of my haptic motor driver. <br> <br>
+
+![PCB](https://github.com/JordanPulido/HapticMotorDrive/blob/master/documentation/PCB%20Milestone.jpg)
+
 November 6, 2018 - Today's task is the PCB soldering milestone. The gerber files I sent to the prototype lab did not receive the email, I had to send another email to the lab. I confirmed that they received the email now I am waiting to wait for the lab to make my PCB. I got the pin sockets for my raspberry pi and motor today. I pulled out some pins from the socket as the pins won't be used for my circuit. Throughout half the class, the PCB has been made. I soldered the pins sockets onto the PCB breadboard. I still have the vias to work on which will be done outside of class.  
 
 October 30, 2018 -
