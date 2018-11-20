@@ -1,3 +1,6 @@
+November 20, 2018 - Regarding the PCB milestone, the enclosure case is to be done today. The case has not been made because the prototype lab was closed throughout the class, however the
+<a href="https://github.com/JordanPulido/HapticMotorDrive/blob/master/documentation/EnclosurePi2CaseX6.pdf"> CorelDRAW </a> has been completed. I am behind schedule as the enclosure case has not been made.
+
 November 13, 2018 - The goal for today was to show the professor our hardware demonstration. There was a problem I encountered where the raspberry pi won't turn on. I tried using the VGA to HDMI adapter method to see if it worked. The solution was to take out the PCB and then turn on the pi, then put the PCB on afterwards. Throughout the class, I've been trying to setup python and circuit python to control my i2c on the board. The process took longer than expected and wasn't completed towards the end of the class. Outside work needs to be done to completely demonstrate the hardware. <a href ="https://learn.adafruit.com/adafruit-drv2605-haptic-controller-breakout/python-circuitpython"> Adafruit's tutorial </a> has been used for reference regarding the installation of my haptic motor driver. <br> <br>
 
 ![PCB](https://github.com/JordanPulido/HapticMotorDrive/blob/master/documentation/PCB%20Milestone.jpg)
