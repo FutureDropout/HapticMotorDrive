@@ -1,3 +1,5 @@
+November 27, 2018 - Today is the presentation for 
+
 November 20, 2018 - Regarding the PCB milestone, the enclosure case is to be done today. The case has not been made because the prototype lab was closed throughout the class, however the
 <a href="https://github.com/JordanPulido/HapticMotorDrive/blob/master/documentation/EnclosurePi2CaseX6.pdf"> CorelDRAW </a> has been completed. I am behind schedule as the enclosure case has not been made.
 
