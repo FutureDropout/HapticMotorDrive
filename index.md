@@ -1,4 +1,5 @@
-November 27, 2018 - Today is the presentation for 
+November 27, 2018 - Today is the
+<a href="https://github.com/JordanPulido/HapticMotorDrive/blob/master/documentation/DRV2605%20Haptic%20Motor%20Driver.pptx">presentation </a> for our hardware. The presentation was nerve wracking, more information could have been put out to the budget and project schedule. Overall, the powerpoint went according to plan except for the vibration motor not receiving an output.  
 
 November 20, 2018 - Regarding the PCB milestone, the enclosure case is to be done today. The case has not been made because the prototype lab was closed throughout the class, however the
 <a href="https://github.com/JordanPulido/HapticMotorDrive/blob/master/documentation/EnclosurePi2CaseX6.pdf"> CorelDRAW </a> has been completed. I am behind schedule as the enclosure case has not been made.
