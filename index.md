@@ -1,3 +1,5 @@
+December 4, 2018 - As last week, today is the continuation of presentations. As I am sick today, I was not able to come to class this week. 
+
 November 27, 2018 - Today is the
 <a href="https://github.com/JordanPulido/HapticMotorDrive/blob/master/documentation/DRV2605%20Haptic%20Motor%20Driver.pptx">presentation </a> for our hardware. The presentation was nerve wracking, more information could have been put out to the budget and project schedule. Overall, the powerpoint went according to plan except for the vibration motor not receiving an output.  
 
