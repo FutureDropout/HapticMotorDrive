@@ -16,11 +16,11 @@ Table of Contents
 
 6. [DRV2605L Haptic Motor Driver Assembly](#drv2605l-haptic-motor-driver-assembly)
 
-7. [DRV2605L Haptic Motor Driver PCB Soldering](#drv2605l-haptic-motor-driver-soldering)
+7. [DRV2605L Haptic Motor Driver PCB Soldering](#drv2605l-haptic-motor-driver-pcb-soldering)
 
 8. [DRV2605L Haptic Motor Driver Power Up](#drv2605l-haptic-motor-driver-power-up)
 
-9. [DRV2605L Haptic Motor Driver Testing](#drv260l5-haptic-motor-driver-testing)
+9. [DRV2605L Haptic Motor Driver Testing](#drv2605l-haptic-motor-driver-testing)
 
 ![ImageOfSensor](https://github.com/JordanPulido/HapticMotorDrive/blob/master/documentation/Sensor.JPG)
 
