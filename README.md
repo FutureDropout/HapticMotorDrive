@@ -93,4 +93,14 @@ Bottom View
 
 ## DRV2605L Haptic Motor Driver Power up
 
+To enable VNC, 
+
+Once VNC is enabled, the following code was typed to identify the address of the given sensor.
+
+```
+sudo i2cdetect -y 1
+```
+
+![Image of Address](https://github.com/JordanPulido/HapticMotorDrive/blob/master/documentation/address.jpg)
+
 ## DRV2605L Haptic Motor Driver Testing
