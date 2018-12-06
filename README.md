@@ -36,7 +36,7 @@ The DRV2605 Haptic Motor Driver is a sensor that has a vibrating and clicking fe
 
 ## DRV2605 Haptic Motor Driver Wiring
 
-| Device Pin                               | Pi Pin     |
+| Device Pin                               | Pi Pinout  |
 |------------------------------------------|------------|
 | 1 (VIN)                                  | 1 (3.3V)   |
 | 2 (GND)                                  | 9 (GND)    |
@@ -48,5 +48,7 @@ The DRV2605 Haptic Motor Driver is a sensor that has a vibrating and clicking fe
 ## DRV2605 Haptic Motor Driver Assembly
 
 ## DRV2605 Haptic Motor Driver PCB Soldering
+
+A soldering toolkit is required to solder the PCB
 
 ## DRV2605 Haptic Motor Driver Testing
