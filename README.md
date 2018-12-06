@@ -55,6 +55,10 @@ The following pinout is as follows:
 
 ![Image of Raspberry Pi Pinouts](https://github.com/JordanPulido/HapticMotorDrive/blob/master/documentation/raspberrypiPinouts.jpg)
 
+Here you can click a <a href="https://radiojove.gsfc.nasa.gov/telescope/soldering.htm"> tutorial </a> on how to solder safely and efficiently.
+
+A 5 pinout socket was placed on top of the 
+
 ## DRV2605L Haptic Motor Driver PCB Design Files
 
 The program <a href="http://fritzing.org/download/"> Fritzing </a> was used to make a diagram for wiring the raspberry pi and sensor.
@@ -71,7 +75,7 @@ Fritzing was also used to do the PCB Milestone. The wires were placed so the upp
 
 ## DRV2605L Haptic Motor Driver PCB Soldering
 
-A soldering toolkit is required to solder the PCB. The vias were soldered with soldering wire. A 40 pinout socket was used to solder on the lower level of the board for the raspberry pi pins. A 5 pinout socket was used to solder on the upper level board for the haptic motor drive pins. 
+A soldering toolkit is required to solder the PCB. The vias were soldered with soldering wire. A 40 pinout socket was used to solder on the lower level of the board for the raspberry pi pins. A 5 pinout socket was used to solder on the upper level board for the haptic motor drive pins.
 
 Top View
 
