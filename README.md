@@ -1,4 +1,6 @@
-# DRV2605L Haptic Motor Driver (0x5A)
+# HapticMotorDrive
+
+DRV2605L Haptic Motor Driver (0x5A)
 
 Table of Contents
 
