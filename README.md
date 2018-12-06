@@ -32,7 +32,7 @@ The DRV2605 Haptic Motor Driver is a sensor that has a vibrating and clicking fe
 
 The <a href="https://github.com/JordanPulido/HapticMotorDrive/blob/master/documentation/JordanPulidoBudget.JPG"> budget </a> was relatively cheap. A toolkit, a soldering kit, and a prototype lab are present before the project. The facilities at Humber College made the project drastically cheaper due to accessable sources.
 
-![Image of Budget](https://github.com/JordanPulido/HapticMotorDrive/blob/master/documentation/JordanPulidoBudget.JPG)
+![Image of Budget](https://github.com/JordanPulido/HapticMotorDrive/blob/master/documentation/Budget.JPG)
 
 ## Schedule
 
@@ -48,6 +48,8 @@ The following pinout is as follows:
 | 2 (GND)                                  | 9 (GND)    |
 | 3 (SCL)                                  | 5 (GPI03)  |
 | 4 (SDA)                                  | 3 (GPI02)  |
+
+![Image of Raspberry Pi Pinouts](https://github.com/JordanPulido/HapticMotorDrive/blob/master/documentation/raspberrypiPinouts.jpg)
 
 ## DRV2605L Haptic Motor Driver PCB Design Files
 
