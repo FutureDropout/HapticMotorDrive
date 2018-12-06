@@ -38,6 +38,8 @@ The <a href="https://github.com/JordanPulido/HapticMotorDrive/blob/master/docume
 
 ## Schedule
 
+The schedule should roughly take 
+
 ## DRV2605L Haptic Motor Driver Wiring
 
 The sensor would be placed on a breadboard. The pinouts would be connected to the raspberry pinouts through wiring. 
