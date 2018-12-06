@@ -32,7 +32,7 @@ The DRV2605 Haptic Motor Driver is a sensor that has a vibrating and clicking fe
 
 ## Bills and Materials of Budget
 
-The <a href="https://github.com/JordanPulido/HapticMotorDrive/blob/master/documentation/JordanPulidoBudget.JPG"> budget </a> was relatively cheap. A toolkit, a soldering kit, and a prototype lab are present before the project. The facilities at Humber College made the project drastically cheaper due to accessable sources.
+The <a href="https://github.com/JordanPulido/HapticMotorDrive/blob/master/documentation/Budget.JPG"> budget </a> was relatively cheap. A toolkit, a soldering kit, and a prototype lab are present before the project. The facilities at Humber College made the project drastically cheaper due to accessable sources.
 
 ![Image of Budget](https://github.com/JordanPulido/HapticMotorDrive/blob/master/documentation/Budget.JPG)
 
