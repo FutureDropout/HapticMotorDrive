@@ -49,6 +49,6 @@ The DRV2605 Haptic Motor Driver is a sensor that has a vibrating and clicking fe
 
 ## DRV2605 Haptic Motor Driver PCB Soldering
 
-A soldering toolkit is required to solder the PCB
+A soldering toolkit is required to solder the PCB. A 40 pinout socket was used to solder on the board for the raspberry pi pins. A 5 pinout socket was used to solder on the board for the haptic motor drive pins.
 
 ## DRV2605 Haptic Motor Driver Testing
