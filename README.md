@@ -1,4 +1,4 @@
-# DRV2605 Haptic Motor Driver (0x5A)
+# DRV2605L Haptic Motor Driver (0x5A)
 
 Table of Contents
 
@@ -8,17 +8,17 @@ Table of Contents
 
 3. [Schedule](#schedule)
 
-4. [DRV2605 Haptic Motor Driver Wiring](#drv2605-haptic-motor-driver-wiring)
+4. [DRV2605L Haptic Motor Driver Wiring](#drv2605l-haptic-motor-driver-wiring)
 
-4. [DRV2605 Haptic Motor Driver PCB Design Files](#drv2605-haptic-motor-driver-pcb-design-files)
+5. [DRV2605L Haptic Motor Driver PCB Design Files](#drv2605l-haptic-motor-driver-pcb-design-files)
 
-5. [DRV2605 Haptic Motor Driver Assembly](#drv2605-haptic-motor-driver-assembly)
+6. [DRV2605L Haptic Motor Driver Assembly](#drv2605l-haptic-motor-driver-assembly)
 
-6. [DRV2605 Haptic Motor Driver PCB Soldering](#drv2605-haptic-motor-driver-soldering)
+7. [DRV2605L Haptic Motor Driver PCB Soldering](#drv2605l-haptic-motor-driver-soldering)
 
-7. [DRV2605 Haptic Motor Driver Power Up](#drv2605-haptic-motor-driver-power-up)
+8. [DRV2605L Haptic Motor Driver Power Up](#drv2605l-haptic-motor-driver-power-up)
 
-8. [DRV2605 Haptic Motor Driver Testing](#drv2605-haptic-motor-driver-testing)
+9. [DRV2605L Haptic Motor Driver Testing](#drv260l5-haptic-motor-driver-testing)
 
 ![ImageOfSensor](https://github.com/JordanPulido/HapticMotorDrive/blob/master/documentation/Sensor.JPG)
 
@@ -36,7 +36,7 @@ The <a href="https://github.com/JordanPulido/HapticMotorDrive/blob/master/docume
 
 ## Schedule
 
-## DRV2605 Haptic Motor Driver Wiring
+## DRV2605L Haptic Motor Driver Wiring
 
 The sensor would be placed on a breadboard. The pinouts would be connected to the raspberry pinouts through wiring. 
 
@@ -49,7 +49,7 @@ The following pinout is as follows:
 | 3 (SCL)                                  | 5 (GPI03)  |
 | 4 (SDA)                                  | 3 (GPI02)  |
 
-## DRV2605 Haptic Motor Driver PCB Design Files
+## DRV2605L Haptic Motor Driver PCB Design Files
 
 The program <a href="http://fritzing.org/download/"> Fritzing </a> was used to make a diagram for wiring the raspberry pi and sensor.
 
@@ -59,11 +59,11 @@ Fritzing was also used to do the PCB Milestone. The wires were placed so the upp
 
 ![Image of PCB Milestone](https://github.com/JordanPulido/HapticMotorDrive/blob/master/documentation/PCBFritzing.JPG)
 
-## DRV2605 Haptic Motor Driver Assembly
+## DRV2605L Haptic Motor Driver Assembly
 
 
 
-## DRV2605 Haptic Motor Driver PCB Soldering
+## DRV2605L Haptic Motor Driver PCB Soldering
 
 A soldering toolkit is required to solder the PCB. The vias were soldered with soldering wire. A 40 pinout socket was used to solder on the lower level of the board for the raspberry pi pins. A 5 pinout socket was used to solder on the upper level board for the haptic motor drive pins. 
 
@@ -79,6 +79,6 @@ Bottom View
 
 <br>
 
-## DRV2605 Haptic Motor Driver Power up
+## DRV2605L Haptic Motor Driver Power up
 
-## DRV2605 Haptic Motor Driver Testing
+## DRV2605L Haptic Motor Driver Testing
