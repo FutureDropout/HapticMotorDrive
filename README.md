@@ -57,7 +57,7 @@ The following pinout is as follows:
 
 Here you can click a <a href="https://radiojove.gsfc.nasa.gov/telescope/soldering.htm"> tutorial </a> on how to solder safely and efficiently.
 
-A 5 pinout socket was placed on top of the 
+A 5 pinout socket was placed on the bottom layer of the sensor. 
 
 ## DRV2605L Haptic Motor Driver PCB Design Files
 
