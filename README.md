@@ -18,7 +18,7 @@ Table of Contents
 
 7. [DRV2605 Haptic Motor Driver Testing](#drv2605-haptic-motor-driver-testing)
 
-
+![ImageOfSensor](https://github.com/JordanPulido/HapticMotorDrive/blob/master/documentation/Sensor.JPG)
 
 ## Introduction
 
