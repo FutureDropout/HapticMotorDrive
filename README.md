@@ -73,7 +73,15 @@ Fritzing was also used to do the PCB Milestone. The wires were placed so the upp
 
 ## DRV2605L Haptic Motor Driver Assembly
 
+A SD Card (SD Card is provided from the <a href="https://www.amazon.ca/CanaKit-Raspberry-Starter-Premium-Black/dp/B07BCC8PK7/ref=sr_1_1_sspa?s=pc&ie=UTF8&qid=1544123414&sr=1-1-spons&keywords=raspberry+pi+3+b%2B&psc=1&smid=A34IVHW5OUAV7P"> raspberry pi 3 kit</a>) formatter was installed.
 
+https://www.sdcard.org/downloads/formatter_4/
+
+NOOBS was installed to give the operating system (os) for the SD card.
+
+https://www.raspberrypi.org/downloads/noobs/
+
+The setup for the raspberry pi was done with reference by <a href="https://www.lynda.com/Raspberry-Pi-tutorials/Raspberry-Pi-Essential-Training/667376-2.html">Lynda</a>.
 
 ## DRV2605L Haptic Motor Driver PCB Soldering
 
