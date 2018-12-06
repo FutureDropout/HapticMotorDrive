@@ -57,7 +57,9 @@ The following pinout is as follows:
 
 Here you can click a <a href="https://radiojove.gsfc.nasa.gov/telescope/soldering.htm"> tutorial </a> on how to solder safely and efficiently.
 
-A 5 pinout socket was placed on the bottom layer of the sensor. 
+A 5 pinout socket was placed on the bottom layer of the sensor. Both sides of the pin sockets were soldered. The vibrating controller motor was soldered with the blue wire on the negative socket and the red wire on the positive socket.
+
+![Image of Soldered Sensor](https://github.com/JordanPulido/HapticMotorDrive/blob/master/documentation/Sensor%20soldered.jpg)
 
 ## DRV2605L Haptic Motor Driver PCB Design Files
 
