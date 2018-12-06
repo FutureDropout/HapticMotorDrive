@@ -28,13 +28,13 @@ Table of Contents
 
 The DRV2605 Haptic Motor Driver is a sensor that has a vibrating and clicking feature. This haptic device can also be controlled by touching it by adding another touch sensor as input to the motor driver. The vibrating and clicking levels can be controlled by their intensity level. To receive an output of this sensor, another device must be connected to the output pins of the hardware. A vibration motor controller is used to buzz and click received by the haptic motor driver.
 
-![Image of System Diagram](https://github.com/JordanPulido/HapticMotorDrive/blob/master/documentation/UMLDiagram.JPG)
+![Image of System Diagram](https://github.com/JordanPulido/HapticMotorDrive/blob/master/documentation/fritzingWiring.JPG)
 
 ## Bills and Materials of Budget
 
 The <a href="https://github.com/JordanPulido/HapticMotorDrive/blob/master/documentation/JordanPulidoBudget.JPG"> budget </a> was relatively cheap. A toolkit, a soldering kit, and a prototype lab are present before the project. The facilities at Humber College made the project drastically cheaper due to accessable sources.
 
-![Image of Budget](https://github.com/JordanPulido/HapticMotorDrive/blob/master/documentation/JordanPulidoBudget.JPG)
+![Image of Budget](https://github.com/JordanPulido/HapticMotorDrive/blob/master/documentation/PCBFritzing.JPG)
 
 ## Schedule
 
