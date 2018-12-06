@@ -55,11 +55,11 @@ The following pinout is as follows:
 
 The program <a href="http://fritzing.org/download/"> Fritzing </a> was used to make a diagram for wiring the raspberry pi and sensor.
 
-![Image of Fritzing] (https://github.com/JordanPulido/HapticMotorDrive/blob/master/documentation/fritzingWiring.JPG)
+![Image of Fritzing](https://github.com/JordanPulido/HapticMotorDrive/blob/master/documentation/fritzingWiring.JPG)
 
 Fritzing was also used to do the PCB Milestone. The wires were placed so the upper levels wires won't overlap each other. The wires were placed so the lower level wires won't overlap each other.
 
-![Image of PCB Milestone] (https://github.com/JordanPulido/HapticMotorDrive/blob/master/documentation/PCBFritzing.JPG)
+![Image of PCB Milestone](https://github.com/JordanPulido/HapticMotorDrive/blob/master/documentation/PCBFritzing.JPG)
 
 ## DRV2605 Haptic Motor Driver Assembly
 
