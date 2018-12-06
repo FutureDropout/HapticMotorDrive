@@ -16,7 +16,9 @@ Table of Contents
 
 6. [DRV2605 Haptic Motor Driver Assembly](#drv2605-haptic-motor-driver-assembly)
 
-7. [DRV2605 Haptic Motor Driver Pi Image Creation and Test Code](#drv2605-haptic-motor-driver-pi-image-creation-and-test-code)
+7. [DRV2605 Haptic Motor Driver Testing](#drv2605-haptic-motor-driver-testing)
+
+
 
 ## Introduction
 
@@ -33,4 +35,4 @@ The DRV2605 Haptic Motor Driver is a sensor that
 
 ## DRV2605 Haptic Motor Driver Assembly
 
-## DRV2605 Haptic Motor Driver Pi Image Creation and Test Code
+## DRV2605 Haptic Motor Driver Testing
