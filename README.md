@@ -101,15 +101,33 @@ Bottom View
 
 ## DRV2605L Haptic Motor Driver Power up
 
-To enable VNC, 
+To begin VNC, the sensor must be connected to the pcb with the raspberry pi and must be booted up. 
 
-Once VNC is enabled, the following code was typed to identify the address of the given sensor.
+Proceed to the following steps to enable vnc:
+
+1. Open prompt and type in the following
+
+```
+sudo raspi-config
+```
+
+2. Interface options -> go to i2c -> select "enable" -> finish
+
+3. Once VNC is enabled, the following code was typed to identify the address of the given sensor.
 
 ```
 sudo i2cdetect -y 1
 ```
 
 ![Image of Address](https://github.com/JordanPulido/HapticMotorDrive/blob/master/documentation/address.jpg)
+
+If you see the given address, you may proceed to the next step. If you DO NOT see the given address, repeat the previous procedures until the specified address is shown.
+
+# Case
+
+<a href="https://www.coreldraw.com/en/"> CorelDRAW </a> has been used to create the raspberry pi case with acrylic.
+
+
 
 ## DRV2605L Haptic Motor Driver Testing
 
