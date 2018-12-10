@@ -200,6 +200,10 @@ drv.set_waveform(0, slot=2)  # End effects after slot 1 (set slot 2 to 0)
 drv.play()
 ```
 
+Corresponding to the attributes of a haptic motor drive, this table is to determine the outputs
+
+![Image of Inputs](https://github.com/JordanPulido/HapticMotorDrive/blob/master/documentation/inputTables.jpg)
+
 
 
 
