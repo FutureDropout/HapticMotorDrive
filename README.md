@@ -115,4 +115,34 @@ sudo i2cdetect -y 1
 
 For the Driver to begin its testing, A python and circuitpython installation has been made into the raspberry pi. <a href="https://www.adafruit.com/"> Adafruit </a> has been used as reference to install the libraries.
 
-The link can be found by clicking <a href="https://learn.adafruit.com/adafruit-drv2605-haptic-controller-breakout/python-circuitpython"> HERE </a> .
+The link can be found by clicking <a href="https://learn.adafruit.com/adafruit-drv2605-haptic-controller-breakout/python-circuitpython"> HERE </a>.
+
+Type in this code to build the circuitpython tools package
+
+```
+python3 -m venv .env
+source .env/bin/activate
+pip install circuitpython-build-tools
+```
+
+Once installed, test run if you are connected to the tools package
+
+```
+source .env/bin/activate
+```
+
+Run the build
+
+```
+circuitpython-build-bundles --filename_prefix adafruit-circuitpython-drv2605 --library_location 
+```
+
+Install CircuitPython
+
+```
+sudo pip3 install adafruit-circuitpython-drv2605
+```
+
+
+
+
