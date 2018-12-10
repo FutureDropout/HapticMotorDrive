@@ -65,7 +65,7 @@ The following pinout is as follows:
 
 ![Image of Raspberry Pi Pinouts](https://github.com/JordanPulido/HapticMotorDrive/blob/master/documentation/raspberrypiPinouts.jpg)
 
-<a href="https://radiojove.gsfc.nasa.gov/telescope/soldering.htm"> HERE </a> you can click a turotial on how to solder safely and efficiently.
+<a href="https://radiojove.gsfc.nasa.gov/telescope/soldering.htm"> HERE </a> you can click a tutorial on how to solder safely and efficiently.
 
 A 5 pinout socket was placed on the bottom layer of the sensor. Both sides of the pin sockets were soldered. The vibrating controller motor was soldered with the blue wire on the negative socket and the red wire on the positive socket.
 
