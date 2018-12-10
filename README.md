@@ -112,3 +112,7 @@ sudo i2cdetect -y 1
 ![Image of Address](https://github.com/JordanPulido/HapticMotorDrive/blob/master/documentation/address.jpg)
 
 ## DRV2605L Haptic Motor Driver Testing
+
+For the Driver to begin its testing, A python and circuitpython installation has been made into the raspberry pi. <a href="https://www.adafruit.com/"> Adafruit </a> has been used as reference to install the libraries.
+
+The link can be found by clicking <a href="https://learn.adafruit.com/adafruit-drv2605-haptic-controller-breakout/python-circuitpython"> HERE </a> .
