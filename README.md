@@ -275,7 +275,7 @@ Corresponding to the attributes of a haptic motor drive, this table is to determ
 
 ![Image of Inputs](https://github.com/JordanPulido/HapticMotorDrive/blob/master/documentation/inputTables.jpg)
 
-### Resources
+## Resources
 
 https://learn.adafruit.com/adafruit-drv2605-haptic-controller-breakout/overview
 
