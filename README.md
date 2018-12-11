@@ -93,6 +93,38 @@ https://www.raspberrypi.org/downloads/noobs/
 
 The setup for the raspberry pi was done with reference by <a href="https://www.lynda.com/Raspberry-Pi-tutorials/Raspberry-Pi-Essential-Training/667376-2.html">Lynda</a>.
 
+1. Format the 8GB SD Card provided from the raspberry pi kit.
+
+2. Download NOOBS, once downloaded unzip the files.
+
+3. Remove the SD Card from the computer, insert the SD Card into the raspberry pi, connect the raspberry pi computer to a screen. At this point the screen should show the raspberry pi instructions.
+
+4. Select "Raspbian" as the operating system for the Pi. Select "US" for the keyboard settings.
+
+5. Open prompt in the top left corner of the desktop screen and type in the following:
+
+```
+wget https://raw.githubusercontent.com/six0four/StudentSenseHat/master/firmware/hshcribv01.sh \  
+-O /home/pi/hshcribv01.sh  
+chmod u+x /home/pi/hshcribv01.sh  
+/home/pi/hshcribv01.sh  
+```
+6. Set up VNC connection to access the Raspberry Pi from computer screens.
+
+Start Menu -> Preferences -> Raspberry Pi Configuration -> Interfaces -> Enable VNC
+
+7. Go back to the desktop screen, in the top right corner check if the VNC logo is on. Record the IP address of the VNC of the Raspberry Pi.
+
+The following link installs the software to view the Raspberry Pi in any computer screen.
+
+https://www.realvnc.com/en/connect/download/vnc/
+
+8. To turn off the Raspberry Pi:
+
+Start Menu -> Shutdown
+
+9. Connect the Raspberry Pi to the computer using an ethernet cable.
+
 ## DRV2605L Haptic Motor Driver PCB Soldering
 
 A soldering toolkit is required to solder the PCB. The vias were soldered with soldering wire. A 40 pinout socket was used to solder on the lower level of the board for the raspberry pi pins. A 5 pinout socket was used to solder on the upper level board for the haptic motor drive pins.
