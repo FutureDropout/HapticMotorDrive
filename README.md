@@ -45,7 +45,7 @@ The given project took a few months to complete. However, with the following ste
 1. Acquiring items (roughly 5-7 days)
 2. Raspberry Pi setup (a couple hours considering internet speeds)
 3. Soldering of the Haptic Motor Driver and Vibrating motor disc (1 hour)
-4. Soldering of the PCB with the pinouts (1.5 hours if soldering of all pins of the raspberry pi is needed)
+4. Soldering of the PCB with the pinouts should take 1 hour (1.5 hours if soldering of all pins of the raspberry pi is needed)
 5. Case Enclosure using CorelDRAW with laser cutting and assembly (3 hours if trial and error is not present within the process)
 6. Installing the libraries in the Pi, Reading and Writing the code (3 hours)
 7. Verification of functionality (1 hour)
