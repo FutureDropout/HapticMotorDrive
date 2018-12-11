@@ -141,6 +141,8 @@ Bottom View
 
 <br>
 
+The PCB laser cutting procedure was done at Humber College's Prototype lab.
+
 ## DRV2605L Haptic Motor Driver Power up
 
 To begin VNC, the sensor must be connected to the pcb with the raspberry pi and must be booted up. 
@@ -169,7 +171,19 @@ If you see the given address, you may proceed to the next step. If you DO NOT se
 
 <a href="https://www.coreldraw.com/en/"> CorelDRAW </a> has been used to create the raspberry pi case with acrylic.
 
+The design files for the Raspberry Pi case for this project can be found by clicking <a href="https://github.com/JordanPulido/HapticMotorDrive/blob/master/documentation/EnclosurePi2CaseX6.pdf"> HERE </a>.
 
+The following link was used as reference for the Raspberry Pi case in CorelDRAW
+
+https://github.com/diy-electronics/raspberrypi-b-plus-case
+
+The laser cutting procedure was done at Humber College's Prototype lab.
+
+# Assembly of Hardware Case
+
+The following case was raised by 40mm to cover the haptic motor driver and vibration motor disc. The top of the case was covered since both the motor and motor disc are sensitive to outside environments because of its fragile feature.
+
+![Image of Hardware Case](https://github.com/JordanPulido/HapticMotorDrive/blob/master/documentation/Enclosed%20Hardware.jpg)
 
 ## DRV2605L Haptic Motor Driver Testing
 
@@ -177,7 +191,7 @@ For the Driver to begin its testing, A python and circuitpython installation has
 
 The link to completely install python can be found by clicking <a href="https://learn.adafruit.com/adafruit-drv2605-haptic-controller-breakout/python-circuitpython"> HERE </a>.
 
-Type in this code to build the circuitpython tools package
+This code is to build the circuitpython tools package:
 
 ```
 python3 -m venv .env
@@ -185,25 +199,25 @@ source .env/bin/activate
 pip install circuitpython-build-tools
 ```
 
-Once installed, test run if you are connected to the tools package
+Once installed, test run if you are connected to the tools package:
 
 ```
 source .env/bin/activate
 ```
 
-Run the build
+Run the build:
 
 ```
 circuitpython-build-bundles --filename_prefix adafruit-circuitpython-drv2605 --library_location 
 ```
 
-Install CircuitPython
+Install CircuitPython:
 
 ```
 sudo pip3 install adafruit-circuitpython-drv2605
 ```
 
-Once installed, import the modules and identify the i2c connection with the motor.
+Once installed, import the modules and identify the i2c connection with the motor:
 
 ```
 import board
@@ -213,7 +227,7 @@ i2c = busio.I2C(board.SCL, board.SDA)
 drv = adafruit_drv2605.DRV2605(i2c)
 ```
 
-Here is an example of code running the Haptic Motor Drive by Adafruit.
+Here is an example of code running the Haptic Motor Drive by Adafruit:
 
 ```
 # Simple demo of the DRV2605 haptic feedback motor driver.
@@ -251,7 +265,7 @@ while True:
         effect_id = 1
 ```
 
-Set a waveform for the motor's ID corresponding to its physical effects. Here is an example.
+Set a waveform for the motor's ID corresponding to its physical effects. Here is an example:
 
 ```
 drv.set_waveform(84)         # Effect 84 in slot 0
