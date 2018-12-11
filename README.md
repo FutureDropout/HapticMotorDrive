@@ -101,7 +101,7 @@ The setup for the raspberry pi was done with reference by <a href="https://www.l
 
 4. Select "Raspbian" as the operating system for the Pi. Select "US" for the keyboard settings.
 
-5. Open prompt in the top left corner of the desktop screen and type in the following:
+5. Open terminal in the top left corner of the desktop screen and type in the following:
 
 ```
 wget https://raw.githubusercontent.com/six0four/StudentSenseHat/master/firmware/hshcribv01.sh \  
@@ -149,7 +149,7 @@ To begin VNC, the sensor must be connected to the pcb with the raspberry pi and 
 
 Proceed to the following steps to enable vnc:
 
-1. Open prompt and type the following:
+1. Open terminal and type the following:
 ```
 sudo raspi-config
 ```
