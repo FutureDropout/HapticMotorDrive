@@ -149,8 +149,7 @@ To begin VNC, the sensor must be connected to the pcb with the raspberry pi and 
 
 Proceed to the following steps to enable vnc:
 
-1. Open prompt and type in the following
-
+1. Open prompt and type the following:
 ```
 sudo raspi-config
 ```
