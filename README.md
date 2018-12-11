@@ -123,7 +123,7 @@ https://www.realvnc.com/en/connect/download/vnc/
 
 Start Menu -> Shutdown
 
-9. Connect the Raspberry Pi to the computer using an ethernet cable.
+9. Connect the Raspberry Pi to the computer using an ethernet cable. Open VNC Viewer from the computer, connect to the raspberry pi by inputting the IP address.
 
 ## DRV2605L Haptic Motor Driver PCB Soldering
 
