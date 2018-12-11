@@ -38,9 +38,9 @@ The <a href="https://github.com/JordanPulido/HapticMotorDrive/blob/master/docume
 
 ## Schedule
 
-The schedule should roughly take a few days considering all the steps are provided. Buying the parts online should take around a week including shipment time/delay.
+The schedule should roughly take a few days considering all the steps provided. Buying the parts online should take around a week including shipment time/delay.
 
-The given project took a few months to complete. However, with the following steps required the project should last 2 weeks considering ordering the parts.
+The given project took a few months to complete. However, with the following steps required the project should last 2 weeks including the shipment of parts.
 
 1. Acquiring items (roughly 5-7 days)
 2. Raspberry Pi setup (a couple hours considering internet speeds)
