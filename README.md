@@ -167,7 +167,7 @@ sudo i2cdetect -y 1
 
 If you see the given address, you may proceed to the next step. If you DO NOT see the given address, repeat the previous procedures until the specified address is shown.
 
-# Case
+# Assembly of Hardware Case
 
 <a href="https://www.coreldraw.com/en/"> CorelDRAW </a> has been used to create the raspberry pi case with acrylic.
 
@@ -178,8 +178,6 @@ The following link was used as reference for the Raspberry Pi case in CorelDRAW
 https://github.com/diy-electronics/raspberrypi-b-plus-case
 
 The laser cutting procedure was done at Humber College's Prototype lab.
-
-# Assembly of Hardware Case
 
 The following case was raised by 40mm to cover the haptic motor driver and vibration motor disc. The top of the case was covered since both the motor and motor disc are sensitive to outside environments because of its fragile feature.
 
