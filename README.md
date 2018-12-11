@@ -164,7 +164,7 @@ sudo i2cdetect -y 1
 
 ![Image of Address](https://github.com/JordanPulido/HapticMotorDrive/blob/master/documentation/address.jpg)
 
-If you see the given address, you may proceed to the next step. If you DO NOT see the given address, repeat the previous procedures until the specified address is shown.
+If you see the given address, you may proceed to the next step. If you DO NOT see the given address, review soldering, installation of the raspberry pi and motor driver.
 
 # Assembly of Hardware Case
 
