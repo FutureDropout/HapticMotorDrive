@@ -191,7 +191,7 @@ For the Driver to begin its testing, A python and circuitpython installation has
 
 The link to completely install python can be found by clicking <a href="https://learn.adafruit.com/adafruit-drv2605-haptic-controller-breakout/python-circuitpython"> HERE </a>.
 
-This code is to build the circuitpython tools package:
+Build the circuitpython tools package:
 
 ```
 python3 -m venv .env
@@ -199,7 +199,7 @@ source .env/bin/activate
 pip install circuitpython-build-tools
 ```
 
-Once installed, test run if you are connected to the tools package:
+Once installed, test run if its connected to the tools package:
 
 ```
 source .env/bin/activate
